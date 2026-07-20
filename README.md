@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Frontend%20Developer-0A66C2?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full-Stack%20Developer-0A66C2?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue%20%7C%20Next.js%20Expert-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/UI%2FUX%20Focused-black?style=for-the-badge&logo=figma&logoColor=white"/>
 
