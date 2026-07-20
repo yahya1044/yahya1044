@@ -17,7 +17,7 @@
 
 ## 👋 Hi, I'm Yahya
 
-🚀 Frontend Developer with **5+ years of experience** building scalable, high-performance web applications.
+🚀 Full Developer with **5+ years of experience** building scalable, high-performance web applications.
 
 ---
 
